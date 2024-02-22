@@ -54,6 +54,7 @@ The usefulness of this page depends on testers sharing information and updates; 
 | Yahoo Inc | DSP | beginning 15 Jan 2024 | | googleprivacysandbox@yahooinc.com |
 | Globo | Adtech  | | | adtech-delivery@g.globo |
 | MiQ | Adtech & Managed service  | From 01.01.2024 | coming soon | privacysandbox@miqdigital.com |
+| KelkooGroup | AdTech services for affiliate marketing | From 01.01.2024| privacysandbox@kelkoogroup.com | 
 
 ## Table - Publishers and Advertisers Interested in Testing or Early Adoption
 Companies who may be interested in participating in tests and early adoption opportunities provided by ad tech companies.
